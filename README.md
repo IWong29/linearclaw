@@ -1,2 +1,2 @@
 # linearclaw
-Arduino and Processing GUI code for servo-powered linear actuating robotic claw controlled by 
+Code for Arduino servo-powered linear motion robotic claw controlled by Processing GUI over serial
